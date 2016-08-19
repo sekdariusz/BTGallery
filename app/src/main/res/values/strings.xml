@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTGallery</string>
+    <string name="image_transition">imageTransition</string>
+    <string name="name_transition">nameTransition</string>
+
+    <string name="name">Name: %1$s</string>
+    <string name="size">Size: %1$skB</string>
+    <string name="date_added">Date added: %1$s</string>
+</resources>
